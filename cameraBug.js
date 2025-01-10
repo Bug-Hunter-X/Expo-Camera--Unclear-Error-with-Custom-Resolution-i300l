@@ -1,0 +1,1 @@
+This error occurs when using the Expo Camera API with a custom resolution. The error message is not always clear, but it often involves an issue with the camera's aspect ratio or the resolution not being supported by the device. It can manifest as the camera preview not displaying, a blank screen, or a crash.
